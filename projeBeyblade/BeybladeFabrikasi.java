@@ -11,6 +11,9 @@ public class BeybladeFabrikasi {
 
         } else if (beybladeTuru.equals("Draciel")) {
             return new Draciel("max", 400, 1000, "kara kaplumbağa");
+
+        }  else if (beybladeTuru.equals("Drayga")) {
+                return new Drayga("bnbn", 700, 400, "mor kaplumbağa");
         } else {
             return null;
         }
