@@ -9,5 +9,8 @@ public interface Imuhendis {
 
 
 
+
+
+
     }
 
